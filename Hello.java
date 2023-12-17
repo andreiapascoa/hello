@@ -9,7 +9,9 @@ class Hello {
 	System.out.println(dear);	
 	System.out.println(world);
 
-	System.out.println("Creating a diff, part 1, disaster is afoot");	
+	System.out.println("Creating a diff, part 1");	
+	System.out.println("Creating a diff, part 2");	
+
 }
 
 }
