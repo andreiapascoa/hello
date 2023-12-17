@@ -4,7 +4,7 @@ class Hello {
 
 	String hello = "Hello, ";
 	String dear = "Dear ";
-	String world = "World";
+	String world = "World!!";
 	System.out.println(hello);	
 	System.out.println(dear);	
 	System.out.println(world);	
