@@ -3,9 +3,9 @@ class Hello {
 	public static void main(String[] args) {
 
 	String hello = "Hello";
-	Sting worls = ", World";
+	Sting world = ", World";
 	System.out.println(hello);	
-	System.out.println(worls);	
+	System.out.println(world);	
 }
 
 }
